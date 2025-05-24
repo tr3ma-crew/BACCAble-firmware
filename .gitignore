@@ -1,0 +1,15 @@
+# STM32CubeIDE
+.metadata
+.settings
+.launch
+.vscode
+user_config.h
+
+# outputs
+Debug
+Release*
+build
+SavvyCAN-Windows_x64
+
+# temp files
+~*
