@@ -33,4 +33,3 @@ Distribution) license.
 Code from the STM32 USB library is licensed under ST Micro's [Liberty V2
 License](http://www.st.com/software_license_agreement_liberty_v2)
 
-
